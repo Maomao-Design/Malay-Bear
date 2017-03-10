@@ -1,3 +1,12 @@
+## Migrations Generator 
+
+Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
+
+```
+php artisan migrate:generate
+```
+
+
 ## install error
 
 

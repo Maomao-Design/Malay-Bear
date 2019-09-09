@@ -1,5 +1,7 @@
 ## Migrations Generator 
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zanjs/Malay-Bear.svg)](https://greenkeeper.io/)
+
 Laravel Migrations Generator: Automatically generate your migrations from an existing database schema.
 
 ```
